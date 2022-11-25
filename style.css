@@ -1,0 +1,14 @@
+h1 {
+    color:green;
+}
+h2 {
+    color: chocolate;
+}
+.content{
+    max-width: 200px;
+    margin:auto ;
+    text-align: justify;
+}
+.test{
+    color: blue;
+}
